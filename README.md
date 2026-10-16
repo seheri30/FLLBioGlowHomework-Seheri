@@ -11,15 +11,15 @@ Island B
 Island C
 
 There are curves, straight paths, and a continuation section that leads to the final End point.
-Sequence of Steps
+Sequence of Steps:
+
 First, the cruise starts at the “Start” point and follows the arrows forward.
 Next, it goes straight to reach Island A.
 Then, it continues along a long straight path  then turn sharp right and move one step then turn sharp right and move forward  to reach Island B.
 Next, move forward few steps then turn left and move step forward then turn left and move forward  then turn shar right then turn shar right again themn move forward follow the arrows  then turn left  go straight then again turn left then sharp left move forward then turn right move few steps then turn right , move few steps then turn left to reach finally island c and move streps to reach  end
 
 
-the cruise follows more arrows and turns toward Island C.
-Finally, the cruise goes up to the continuation area and moves left until it reaches the End point.
+
 What I learned
 
 How to plan steps in order (sequence).
